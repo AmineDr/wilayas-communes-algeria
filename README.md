@@ -1,3 +1,3 @@
 ### wilayas-communes-algeria
 
-# All new Wilayas and communes in Algeria.
+# 58 Wilayas and communes of Algeria.
