@@ -379,54 +379,9 @@
         "arabic_name": "الخنق"
       },
       {
-        "id": "3010",
-        "name": "Gueltat Sidi Saad",
-        "arabic_name": "قلتة سيدي سعد"
-      },
-      {
-        "id": "3011",
-        "name": "Ain Sidi Ali",
-        "arabic_name": "عين سيدي علي"
-      },
-      {
-        "id": "3012",
-        "name": "Beidha",
-        "arabic_name": "بيضاء"
-      },
-      {
-        "id": "3013",
-        "name": "Brida",
-        "arabic_name": "بريدة"
-      },
-      {
-        "id": "3014",
-        "name": "El Ghicha",
-        "arabic_name": "الغيشة"
-      },
-      {
-        "id": "3015",
-        "name": "Hadj Mechri",
-        "arabic_name": "الحاج المشري"
-      },
-      {
-        "id": "3016",
-        "name": "Sebgag",
-        "arabic_name": "سبقاق"
-      },
-      {
-        "id": "3017",
-        "name": "Taouiala",
-        "arabic_name": "تاويالة"
-      },
-      {
         "id": "3018",
         "name": "Tadjrouna",
         "arabic_name": "تاجرونة"
-      },
-      {
-        "id": "3019",
-        "name": "Aflou",
-        "arabic_name": "أفلو"
       },
       {
         "id": "3020",
@@ -434,24 +389,9 @@
         "arabic_name": "العسافية"
       },
       {
-        "id": "3021",
-        "name": "Oued Morra",
-        "arabic_name": "وادي مرة"
-      },
-      {
-        "id": "3022",
-        "name": "Oued M'Zi",
-        "arabic_name": "وادي مزي"
-      },
-      {
         "id": "3023",
         "name": "El Haouaita",
         "arabic_name": "الهوارية"
-      },
-      {
-        "id": "3024",
-        "name": "Sidi Bouzid",
-        "arabic_name": "سيدي بوزيد"
       }
     ]
   },
@@ -678,16 +618,6 @@
         "arabic_name": "جرمة"
       },
       {
-        "id": "5014",
-        "name": "Bitam",
-        "arabic_name": "بيطام"
-      },
-      {
-        "id": "5015",
-        "name": "Metkaouak",
-        "arabic_name": "عزيل عبد القادر"
-      },
-      {
         "id": "5016",
         "name": "Arris",
         "arabic_name": "اريس"
@@ -696,11 +626,6 @@
         "id": "5017",
         "name": "Kimmel",
         "arabic_name": "كيمل"
-      },
-      {
-        "id": "5018",
-        "name": "Tilatou",
-        "arabic_name": "تيلاطو"
       },
       {
         "id": "5019",
@@ -751,11 +676,6 @@
         "id": "5028",
         "name": "Ksar Belezma",
         "arabic_name": "قصر بلازمة"
-      },
-      {
-        "id": "5029",
-        "name": "Seggana",
-        "arabic_name": "سقانة"
       },
       {
         "id": "5030",
@@ -818,16 +738,6 @@
         "arabic_name": "بــومقر"
       },
       {
-        "id": "5042",
-        "name": "Barika",
-        "arabic_name": "بريكة"
-      },
-      {
-        "id": "5043",
-        "name": "Djezzar",
-        "arabic_name": "الجزار"
-      },
-      {
         "id": "5044",
         "name": "Tkout",
         "arabic_name": "تكوت"
@@ -881,16 +791,6 @@
         "id": "5054",
         "name": "Zanat El Beida",
         "arabic_name": "زانة البيضاء"
-      },
-      {
-        "id": "5055",
-        "name": "M'doukel",
-        "arabic_name": "أمدوكال"
-      },
-      {
-        "id": "5056",
-        "name": "Ouled Ammar",
-        "arabic_name": "أولاد عمار"
       },
       {
         "id": "5057",
@@ -1202,11 +1102,6 @@
         "arabic_name": "أوماش"
       },
       {
-        "id": "7003",
-        "name": "Branis",
-        "arabic_name": "البرانس"
-      },
-      {
         "id": "7004",
         "name": "Chetma",
         "arabic_name": "شتمة"
@@ -1270,26 +1165,6 @@
         "id": "7016",
         "name": "El Feidh",
         "arabic_name": "الفيض"
-      },
-      {
-        "id": "7017",
-        "name": "El Kantara",
-        "arabic_name": "القنطرة"
-      },
-      {
-        "id": "7018",
-        "name": "Ain Zaatout",
-        "arabic_name": "عين زعطوط"
-      },
-      {
-        "id": "7019",
-        "name": "El Outaya",
-        "arabic_name": "لوطاية"
-      },
-      {
-        "id": "7020",
-        "name": "Djemorah",
-        "arabic_name": "جمورة"
       },
       {
         "id": "7021",
@@ -1902,11 +1777,6 @@
         "arabic_name": "تبسة"
       },
       {
-        "id": "12002",
-        "name": "Bir El Ater",
-        "arabic_name": "بئر العاتر"
-      },
-      {
         "id": "12003",
         "name": "Cheria",
         "arabic_name": "الــشــريــعـة"
@@ -1937,11 +1807,6 @@
         "arabic_name": "الحمامات"
       },
       {
-        "id": "12009",
-        "name": "Negrine",
-        "arabic_name": "نقرين"
-      },
-      {
         "id": "12010",
         "name": "Bir El Mokadem",
         "arabic_name": "بــئــر مــقـدم"
@@ -1955,11 +1820,6 @@
         "id": "12012",
         "name": "Morsott",
         "arabic_name": "مرسط"
-      },
-      {
-        "id": "12013",
-        "name": "El Ogla",
-        "arabic_name": "العقلة"
       },
       {
         "id": "12014",
@@ -2030,11 +1890,6 @@
         "id": "12027",
         "name": "El Mazeraa",
         "arabic_name": "المزرعة"
-      },
-      {
-        "id": "12028",
-        "name": "Ferkane",
-        "arabic_name": "فـــــــركـــــان"
       }
     ]
   },
@@ -2087,11 +1942,6 @@
         "id": "13009",
         "name": "Djebala",
         "arabic_name": "جبالة"
-      },
-      {
-        "id": "13010",
-        "name": "El Gor",
-        "arabic_name": "الغور"
       },
       {
         "id": "13011",
@@ -2199,11 +2049,6 @@
         "arabic_name": "عين فتاح"
       },
       {
-        "id": "13032",
-        "name": "El Aricha",
-        "arabic_name": "العريشة"
-      },
-      {
         "id": "13033",
         "name": "Souk Thlata",
         "arabic_name": "سوق الثلاثاء"
@@ -2244,19 +2089,9 @@
         "arabic_name": "ندرومة"
       },
       {
-        "id": "13041",
-        "name": "Sidi Djillali",
-        "arabic_name": "سيدي الجيلالي"
-      },
-      {
         "id": "13042",
         "name": "Beni Bahdel",
         "arabic_name": "بني بهدل"
-      },
-      {
-        "id": "13043",
-        "name": "El Bouihi",
-        "arabic_name": "البويھي"
       },
       {
         "id": "13044",
@@ -2356,11 +2191,6 @@
         "arabic_name": "مدريسة"
       },
       {
-        "id": "14009",
-        "name": "Zmalet El Emir Aek",
-        "arabic_name": "زمالة الأمير عبد القادر"
-      },
-      {
         "id": "14010",
         "name": "Madna",
         "arabic_name": "مادنة"
@@ -2456,16 +2286,6 @@
         "arabic_name": "عين كرمس"
       },
       {
-        "id": "14029",
-        "name": "Ksar Chellala",
-        "arabic_name": "قصر الشلالة"
-      },
-      {
-        "id": "14030",
-        "name": "Rechaiga",
-        "arabic_name": "الرشايقة"
-      },
-      {
         "id": "14031",
         "name": "Nadorah",
         "arabic_name": "ملاكو"
@@ -2486,11 +2306,6 @@
         "arabic_name": "مشرع الصفاء"
       },
       {
-        "id": "14035",
-        "name": "Hamadia",
-        "arabic_name": "الحمادية"
-      },
-      {
         "id": "14036",
         "name": "Chehaima",
         "arabic_name": "شحيمة"
@@ -2504,16 +2319,6 @@
         "id": "14038",
         "name": "Sidi Abderrahmane",
         "arabic_name": "سيدي عبدالرحمان"
-      },
-      {
-        "id": "14039",
-        "name": "Serghine",
-        "arabic_name": "سرغين"
-      },
-      {
-        "id": "14040",
-        "name": "Bougara",
-        "arabic_name": "بوقرة"
       },
       {
         "id": "14041",
@@ -3192,34 +2997,9 @@
         "arabic_name": "عين معبد"
       },
       {
-        "id": "17006",
-        "name": "Sed Rahal",
-        "arabic_name": "سد رحال"
-      },
-      {
-        "id": "17007",
-        "name": "Feidh El Botma",
-        "arabic_name": "فيض البطمة"
-      },
-      {
-        "id": "17008",
-        "name": "Birine",
-        "arabic_name": "البيرين"
-      },
-      {
-        "id": "17009",
-        "name": "Bouira Lahdeb",
-        "arabic_name": "بويرة الأحداب"
-      },
-      {
         "id": "17010",
         "name": "Zaccar",
         "arabic_name": "زكار"
-      },
-      {
-        "id": "17011",
-        "name": "El Khemis",
-        "arabic_name": "الخميس"
       },
       {
         "id": "17012",
@@ -3247,44 +3027,9 @@
         "arabic_name": "حاسي العش"
       },
       {
-        "id": "17017",
-        "name": "Messaad",
-        "arabic_name": "مسعد"
-      },
-      {
-        "id": "17018",
-        "name": "Guettara",
-        "arabic_name": "قتارة"
-      },
-      {
-        "id": "17019",
-        "name": "Sidi Ladjel",
-        "arabic_name": "سيدي لعجال"
-      },
-      {
-        "id": "17020",
-        "name": "Had Sahary",
-        "arabic_name": "حد الصحاري"
-      },
-      {
-        "id": "17021",
-        "name": "Guernini",
-        "arabic_name": "القرنيني"
-      },
-      {
-        "id": "17022",
-        "name": "Selmana",
-        "arabic_name": "سلمانة"
-      },
-      {
         "id": "17023",
         "name": "Ain Chouhada",
         "arabic_name": "عين الشهداء"
-      },
-      {
-        "id": "17024",
-        "name": "Oum Laadham",
-        "arabic_name": "ام العظام"
       },
       {
         "id": "17025",
@@ -3307,39 +3052,9 @@
         "arabic_name": "الزعفران"
       },
       {
-        "id": "17029",
-        "name": "Deldoul",
-        "arabic_name": "دلدول"
-      },
-      {
         "id": "17030",
         "name": "Ain El Ibel",
         "arabic_name": "عين الابل"
-      },
-      {
-        "id": "17031",
-        "name": "Ain Oussera",
-        "arabic_name": "عين وسارة"
-      },
-      {
-        "id": "17032",
-        "name": "Benhar",
-        "arabic_name": "بنهار"
-      },
-      {
-        "id": "17033",
-        "name": "Hassi Fedoul",
-        "arabic_name": "حاسي فدول"
-      },
-      {
-        "id": "17034",
-        "name": "Amourah",
-        "arabic_name": "عمورة"
-      },
-      {
-        "id": "17035",
-        "name": "Ain Fekka",
-        "arabic_name": "عين افقة"
       },
       {
         "id": "17036",
@@ -4680,16 +4395,6 @@
         "arabic_name": "وزرة"
       },
       {
-        "id": "26003",
-        "name": "Ouled Maaref",
-        "arabic_name": "أولاد معرف"
-      },
-      {
-        "id": "26004",
-        "name": "Ain Boucif",
-        "arabic_name": "عين بوسيف"
-      },
-      {
         "id": "26005",
         "name": "Aissaouia",
         "arabic_name": "العيساوية"
@@ -4705,19 +4410,9 @@
         "arabic_name": "العمارية"
       },
       {
-        "id": "26008",
-        "name": "Derrag",
-        "arabic_name": "دراڨ"
-      },
-      {
         "id": "26009",
         "name": "El Guelbelkebir",
         "arabic_name": "القلب الكبير"
-      },
-      {
-        "id": "26010",
-        "name": "Bouaiche",
-        "arabic_name": "بوعيش"
       },
       {
         "id": "26011",
@@ -4750,16 +4445,6 @@
         "arabic_name": "الحمدانية"
       },
       {
-        "id": "26017",
-        "name": "Kef Lakhdar",
-        "arabic_name": "الكاف الأخضر"
-      },
-      {
-        "id": "26018",
-        "name": "Chelalet El Adhaoura",
-        "arabic_name": "شلالة العذاورة"
-      },
-      {
         "id": "26019",
         "name": "Bouskene",
         "arabic_name": "بوسكن"
@@ -4775,24 +4460,9 @@
         "arabic_name": "بوشراحيل"
       },
       {
-        "id": "26022",
-        "name": "Ouled Hellal",
-        "arabic_name": "أولاد هلال"
-      },
-      {
-        "id": "26023",
-        "name": "Tafraout",
-        "arabic_name": "تافراوت"
-      },
-      {
         "id": "26024",
         "name": "Baata",
         "arabic_name": "بعطة"
-      },
-      {
-        "id": "26025",
-        "name": "Boghar",
-        "arabic_name": "بوغار"
       },
       {
         "id": "26026",
@@ -4820,11 +4490,6 @@
         "arabic_name": "بن شكاو"
       },
       {
-        "id": "26031",
-        "name": "Sidi Damed",
-        "arabic_name": "سيدي دامد"
-      },
-      {
         "id": "26032",
         "name": "Aziz",
         "arabic_name": "عزيز"
@@ -4840,44 +4505,14 @@
         "arabic_name": "الزبيرية"
       },
       {
-        "id": "26035",
-        "name": "Ksar El Boukhari",
-        "arabic_name": "قصر البخاري"
-      },
-      {
-        "id": "26036",
-        "name": "El Azizia",
-        "arabic_name": "العزيزية"
-      },
-      {
         "id": "26037",
         "name": "Djouab",
         "arabic_name": "جواب"
       },
       {
-        "id": "26038",
-        "name": "Chahbounia",
-        "arabic_name": "الشهبونية"
-      },
-      {
         "id": "26039",
         "name": "Meghraoua",
         "arabic_name": "مغراوة"
-      },
-      {
-        "id": "26040",
-        "name": "Cheniguel",
-        "arabic_name": "شنيڨل"
-      },
-      {
-        "id": "26041",
-        "name": "Ain Ouksir",
-        "arabic_name": "عين القصير"
-      },
-      {
-        "id": "26042",
-        "name": "Oum El Djalil",
-        "arabic_name": "أم الجليل"
       },
       {
         "id": "26043",
@@ -4910,19 +4545,9 @@
         "arabic_name": "سغوان"
       },
       {
-        "id": "26049",
-        "name": "Meftaha",
-        "arabic_name": "المفاتحة"
-      },
-      {
         "id": "26050",
         "name": "Mihoub",
         "arabic_name": "ميهوب"
-      },
-      {
-        "id": "26051",
-        "name": "Boughezoul",
-        "arabic_name": "بوغزول"
       },
       {
         "id": "26052",
@@ -4950,16 +4575,6 @@
         "arabic_name": "بئر بن العابد"
       },
       {
-        "id": "26057",
-        "name": "El Ouinet",
-        "arabic_name": "العوينات"
-      },
-      {
-        "id": "26058",
-        "name": "Ouled Antar",
-        "arabic_name": "أولاد عنتر"
-      },
-      {
         "id": "26059",
         "name": "Bouaichoune",
         "arabic_name": "بوعيشون"
@@ -4983,11 +4598,6 @@
         "id": "26063",
         "name": "Khams Djouamaa",
         "arabic_name": "خمس جوامع"
-      },
-      {
-        "id": "26064",
-        "name": "Saneg",
-        "arabic_name": "سانڨ"
       }
     ]
   },
@@ -5194,16 +4804,6 @@
         "arabic_name": "مطارفة"
       },
       {
-        "id": "28007",
-        "name": "Khoubana",
-        "arabic_name": "خبانة"
-      },
-      {
-        "id": "28008",
-        "name": "M'cif",
-        "arabic_name": "مسيف"
-      },
-      {
         "id": "28009",
         "name": "Chellal",
         "arabic_name": "شلال"
@@ -5259,46 +4859,6 @@
         "arabic_name": "ونوغة"
       },
       {
-        "id": "28020",
-        "name": "Bou Saada",
-        "arabic_name": "بوسعادة"
-      },
-      {
-        "id": "28021",
-        "name": "Ouled Sidi Brahim",
-        "arabic_name": "أولاد سيدي ابراهيم"
-      },
-      {
-        "id": "28022",
-        "name": "Sidi Ameur",
-        "arabic_name": "سيدي عامر"
-      },
-      {
-        "id": "28023",
-        "name": "Tamsa",
-        "arabic_name": "تامسة"
-      },
-      {
-        "id": "28024",
-        "name": "Ben Srour",
-        "arabic_name": "بن سرور"
-      },
-      {
-        "id": "28025",
-        "name": "Ouled Slimane",
-        "arabic_name": "أولاد سليمان"
-      },
-      {
-        "id": "28026",
-        "name": "El Houamed",
-        "arabic_name": "الحوامد"
-      },
-      {
-        "id": "28027",
-        "name": "El Hamel",
-        "arabic_name": "الهامل"
-      },
-      {
         "id": "28028",
         "name": "Ouled Mansour",
         "arabic_name": "أولاد منصور"
@@ -5324,79 +4884,14 @@
         "arabic_name": "خطوطي سد الجير"
       },
       {
-        "id": "28033",
-        "name": "Zarzour",
-        "arabic_name": "الزرزور"
-      },
-      {
-        "id": "28034",
-        "name": "Oued Chair",
-        "arabic_name": "محمد بوضياف"
-      },
-      {
-        "id": "28035",
-        "name": "Benzouh",
-        "arabic_name": "بن الزوه"
-      },
-      {
-        "id": "28036",
-        "name": "Bir Foda",
-        "arabic_name": "بير الفضة"
-      },
-      {
-        "id": "28037",
-        "name": "Ain Fares",
-        "arabic_name": "عين فارس"
-      },
-      {
-        "id": "28038",
-        "name": "Sidi Mhamed",
-        "arabic_name": "سيدي محمد"
-      },
-      {
-        "id": "28039",
-        "name": "Ouled Atia",
-        "arabic_name": "منعة"
-      },
-      {
         "id": "28040",
         "name": "Souamaa",
         "arabic_name": "الصوامع"
       },
       {
-        "id": "28041",
-        "name": "Ain El Melh",
-        "arabic_name": "عين الملح"
-      },
-      {
-        "id": "28042",
-        "name": "Medjedel",
-        "arabic_name": "مجدل"
-      },
-      {
-        "id": "28043",
-        "name": "Slim",
-        "arabic_name": "سليم"
-      },
-      {
-        "id": "28044",
-        "name": "Ain Errich",
-        "arabic_name": "عين الريش"
-      },
-      {
         "id": "28045",
         "name": "Beni Ilmane",
         "arabic_name": "بنى يلمان"
-      },
-      {
-        "id": "28046",
-        "name": "Oultene",
-        "arabic_name": "ولتام"
-      },
-      {
-        "id": "28047",
-        "name": "Djebel Messaad",
-        "arabic_name": "جبل مساعد"
       }
     ]
   },
@@ -5927,21 +5422,6 @@
         "arabic_name": "بوعلام"
       },
       {
-        "id": "32007",
-        "name": "El Abiodh Sidi Cheikh",
-        "arabic_name": "الابيض سيدي الشيخ"
-      },
-      {
-        "id": "32008",
-        "name": "Ain El Orak",
-        "arabic_name": "عين العراك"
-      },
-      {
-        "id": "32009",
-        "name": "Arbaouat",
-        "arabic_name": "أربوات"
-      },
-      {
         "id": "32010",
         "name": "Bougtoub",
         "arabic_name": "بوقطب"
@@ -5957,24 +5437,9 @@
         "arabic_name": "الكاف الاحمر"
       },
       {
-        "id": "32013",
-        "name": "Boussemghoun",
-        "arabic_name": "بوسمغون"
-      },
-      {
-        "id": "32014",
-        "name": "Chellala",
-        "arabic_name": "شلالة"
-      },
-      {
         "id": "32015",
         "name": "Krakda",
         "arabic_name": "كراكدة"
-      },
-      {
-        "id": "32016",
-        "name": "El Bnoud",
-        "arabic_name": "البنود"
       },
       {
         "id": "32017",
@@ -5985,11 +5450,6 @@
         "id": "32018",
         "name": "Sidi Ameur",
         "arabic_name": "سيدي عامر"
-      },
-      {
-        "id": "32019",
-        "name": "El Mehara",
-        "arabic_name": "المھارة"
       },
       {
         "id": "32020",
@@ -8099,5 +7559,622 @@
     "name": "In Guezzam",
     "arabic_name": "عين قزام",
     "communes": []
+  },
+  {
+    "id": 59,
+    "name": "Aflou",
+    "arabic_name": "أفلو",
+    "communes": [
+      {
+        "id": "59001",
+        "name": "Aflou",
+        "arabic_name": "أفلو"
+      },
+      {
+        "id": "59002",
+        "name": "Sebgag",
+        "arabic_name": "سبقاق"
+      },
+      {
+        "id": "59003",
+        "name": "Sidi Bouzid",
+        "arabic_name": "سيدي بوزيد"
+      },
+      {
+        "id": "59004",
+        "name": "Brida",
+        "arabic_name": "بريدة"
+      },
+      {
+        "id": "59005",
+        "name": "Hadj Mechri",
+        "arabic_name": "الحاج المشري"
+      },
+      {
+        "id": "59006",
+        "name": "Taouiala",
+        "arabic_name": "تاويالة"
+      },
+      {
+        "id": "59007",
+        "name": "Gueltat Sidi Saad",
+        "arabic_name": "قلتة سيدي سعد"
+      },
+      {
+        "id": "59008",
+        "name": "Ain Sidi Ali",
+        "arabic_name": "عين سيدي علي"
+      },
+      {
+        "id": "59009",
+        "name": "El Beidha",
+        "arabic_name": "بيضاء"
+      },
+      {
+        "id": "59010",
+        "name": "Oued Morra",
+        "arabic_name": "وادي مرة"
+      },
+      {
+        "id": "59011",
+        "name": "Oued M'Zi",
+        "arabic_name": "وادي مزي"
+      },
+      {
+        "id": "59012",
+        "name": "El Ghicha",
+        "arabic_name": "الغيشة"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "El Abiodh Sidi Cheikh",
+    "arabic_name": "الأبيض سيدي الشيخ",
+    "communes": [
+      {
+        "id": "60001",
+        "name": "El Abiodh Sidi Cheikh",
+        "arabic_name": "الابيض سيدي الشيخ"
+      },
+      {
+        "id": "60002",
+        "name": "Ain El Orak",
+        "arabic_name": "عين العراك"
+      },
+      {
+        "id": "60003",
+        "name": "Arbaouat",
+        "arabic_name": "أربوات"
+      },
+      {
+        "id": "60004",
+        "name": "El Bnoud",
+        "arabic_name": "البنود"
+      },
+      {
+        "id": "60005",
+        "name": "Boussemghoun",
+        "arabic_name": "بوسمغون"
+      },
+      {
+        "id": "60006",
+        "name": "Chellala",
+        "arabic_name": "شلالة"
+      },
+      {
+        "id": "60007",
+        "name": "El Mehara",
+        "arabic_name": "المھارة"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "El Aricha",
+    "arabic_name": "العريشة",
+    "communes": [
+      {
+        "id": "61001",
+        "name": "El Aricha",
+        "arabic_name": "العريشة"
+      },
+      {
+        "id": "61002",
+        "name": "El Gor",
+        "arabic_name": "الغور"
+      },
+      {
+        "id": "61003",
+        "name": "Sidi Djillali",
+        "arabic_name": "سيدي الجيلالي"
+      },
+      {
+        "id": "61004",
+        "name": "El Bouihi",
+        "arabic_name": "البويھي"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "El Kantara",
+    "arabic_name": "القنطرة",
+    "communes": [
+      {
+        "id": "62001",
+        "name": "El Kantara",
+        "arabic_name": "القنطرة"
+      },
+      {
+        "id": "62002",
+        "name": "Ain Zaatout",
+        "arabic_name": "عين زعطوط"
+      },
+      {
+        "id": "62003",
+        "name": "Djemorah",
+        "arabic_name": "جمورة"
+      },
+      {
+        "id": "62004",
+        "name": "Branis",
+        "arabic_name": "البرانس"
+      },
+      {
+        "id": "62005",
+        "name": "El Outaya",
+        "arabic_name": "لوطاية"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Barika",
+    "arabic_name": "بريكة",
+    "communes": [
+      {
+        "id": "63001",
+        "name": "Barika",
+        "arabic_name": "بريكة"
+      },
+      {
+        "id": "63002",
+        "name": "Bitam",
+        "arabic_name": "بيطام"
+      },
+      {
+        "id": "63003",
+        "name": "M'doukel (Amdoukal)",
+        "arabic_name": "أمدوكال"
+      },
+      {
+        "id": "63004",
+        "name": "Seggana",
+        "arabic_name": "سقانة"
+      },
+      {
+        "id": "63005",
+        "name": "Tilatou",
+        "arabic_name": "تيلاطو"
+      },
+      {
+        "id": "63006",
+        "name": "Djezzar",
+        "arabic_name": "الجزار"
+      },
+      {
+        "id": "63007",
+        "name": "Metkaouak (Abdelkader Azil)",
+        "arabic_name": "عزيل عبد القادر"
+      },
+      {
+        "id": "63008",
+        "name": "Ouled Ammar",
+        "arabic_name": "أولاد عمار"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Bou Saada",
+    "arabic_name": "بوسعادة",
+    "communes": [
+      {
+        "id": "64001",
+        "name": "Bou Saada",
+        "arabic_name": "بوسعادة"
+      },
+      {
+        "id": "64002",
+        "name": "El Hamel",
+        "arabic_name": "الهامل"
+      },
+      {
+        "id": "64003",
+        "name": "Oultene",
+        "arabic_name": "ولتام"
+      },
+      {
+        "id": "64004",
+        "name": "Khoubana",
+        "arabic_name": "خبانة"
+      },
+      {
+        "id": "64005",
+        "name": "M'cif",
+        "arabic_name": "مسيف"
+      },
+      {
+        "id": "64006",
+        "name": "El Houamed",
+        "arabic_name": "الحوامد"
+      },
+      {
+        "id": "64007",
+        "name": "Ouled Sidi Brahim",
+        "arabic_name": "أولاد سيدي ابراهيم"
+      },
+      {
+        "id": "64008",
+        "name": "Benzouh",
+        "arabic_name": "بن الزوه"
+      },
+      {
+        "id": "64009",
+        "name": "Sidi Ameur",
+        "arabic_name": "سيدي عامر"
+      },
+      {
+        "id": "64010",
+        "name": "Tamsa",
+        "arabic_name": "تامسة"
+      },
+      {
+        "id": "64011",
+        "name": "Ben Srour",
+        "arabic_name": "بن سرور"
+      },
+      {
+        "id": "64012",
+        "name": "Ouled Slimane",
+        "arabic_name": "أولاد سليمان"
+      },
+      {
+        "id": "64013",
+        "name": "Zarzour",
+        "arabic_name": "الزرزور"
+      },
+      {
+        "id": "64014",
+        "name": "Mouhamed Boudiaf",
+        "arabic_name": "محمد بوضياف"
+      },
+      {
+        "id": "64015",
+        "name": "Ain El Melh",
+        "arabic_name": "عين الملح"
+      },
+      {
+        "id": "64016",
+        "name": "Bir Foda",
+        "arabic_name": "بير الفضة"
+      },
+      {
+        "id": "64017",
+        "name": "Ain Fares",
+        "arabic_name": "عين فارس"
+      },
+      {
+        "id": "64018",
+        "name": "Sidi Mhamed",
+        "arabic_name": "سيدي محمد"
+      },
+      {
+        "id": "64019",
+        "name": "Ain Errich",
+        "arabic_name": "عين الريش"
+      },
+      {
+        "id": "64020",
+        "name": "Medjedel",
+        "arabic_name": "مجدل"
+      },
+      {
+        "id": "64021",
+        "name": "Menaa",
+        "arabic_name": "منعة"
+      },
+      {
+        "id": "64022",
+        "name": "Djebel Messaad",
+        "arabic_name": "جبل مساعد"
+      },
+      {
+        "id": "64023",
+        "name": "Slim",
+        "arabic_name": "سليم"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Bir El Ater",
+    "arabic_name": "بئر العاتر",
+    "communes": [
+      {
+        "id": "65001",
+        "name": "Bir El Ater",
+        "arabic_name": "بئر العاتر"
+      },
+      {
+        "id": "65002",
+        "name": "El Ogla El Melha",
+        "arabic_name": "العقلة"
+      },
+      {
+        "id": "65003",
+        "name": "Negrine",
+        "arabic_name": "نقرين"
+      },
+      {
+        "id": "65004",
+        "name": "Ferkane",
+        "arabic_name": "فـــــــركـــــان"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Ksar El Boukhari",
+    "arabic_name": "قصر البخاري",
+    "communes": [
+      {
+        "id": "66001",
+        "name": "Ksar El Boukhari",
+        "arabic_name": "قصر البخاري"
+      },
+      {
+        "id": "66002",
+        "name": "Meftaha",
+        "arabic_name": "المفاتحة"
+      },
+      {
+        "id": "66003",
+        "name": "Saneg",
+        "arabic_name": "سانڨ"
+      },
+      {
+        "id": "66004",
+        "name": "Ain Boucif",
+        "arabic_name": "عين بوسيف"
+      },
+      {
+        "id": "66005",
+        "name": "Ouled Maaref",
+        "arabic_name": "أولاد معرف"
+      },
+      {
+        "id": "66006",
+        "name": "Kef Lakhdar",
+        "arabic_name": "الكاف الأخضر"
+      },
+      {
+        "id": "66007",
+        "name": "Sidi Damed",
+        "arabic_name": "سيدي دامد"
+      },
+      {
+        "id": "66008",
+        "name": "El Ouinet",
+        "arabic_name": "العوينات"
+      },
+      {
+        "id": "66009",
+        "name": "Chelalet El Adhaoura",
+        "arabic_name": "شلالة العذاورة"
+      },
+      {
+        "id": "66010",
+        "name": "Tafraout",
+        "arabic_name": "تافراوت"
+      },
+      {
+        "id": "66011",
+        "name": "Cheniguel",
+        "arabic_name": "شنيڨل"
+      },
+      {
+        "id": "66012",
+        "name": "Ain Ouksir",
+        "arabic_name": "عين القصير"
+      },
+      {
+        "id": "66013",
+        "name": "El Azizia",
+        "arabic_name": "العزيزية"
+      },
+      {
+        "id": "66014",
+        "name": "Derrag",
+        "arabic_name": "دراڨ"
+      },
+      {
+        "id": "66015",
+        "name": "Oum El Djalil",
+        "arabic_name": "أم الجليل"
+      },
+      {
+        "id": "66016",
+        "name": "Chahbounia",
+        "arabic_name": "الشهبونية"
+      },
+      {
+        "id": "66017",
+        "name": "Bouaiche",
+        "arabic_name": "بوعيش"
+      },
+      {
+        "id": "66018",
+        "name": "Boughezoul",
+        "arabic_name": "بوغزول"
+      },
+      {
+        "id": "66019",
+        "name": "Ouled Antar",
+        "arabic_name": "أولاد عنتر"
+      },
+      {
+        "id": "66020",
+        "name": "Ouled Hellal",
+        "arabic_name": "أولاد هلال"
+      },
+      {
+        "id": "66021",
+        "name": "Boghar",
+        "arabic_name": "بوغار"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Ksar Chellala",
+    "arabic_name": "قصر الشلالة",
+    "communes": [
+      {
+        "id": "67001",
+        "name": "Ksar Chellala",
+        "arabic_name": "قصر الشلالة"
+      },
+      {
+        "id": "67002",
+        "name": "Zmalet El Emir Aek",
+        "arabic_name": "زمالة الأمير عبد القادر"
+      },
+      {
+        "id": "67003",
+        "name": "Serghine",
+        "arabic_name": "سرغين"
+      },
+      {
+        "id": "67004",
+        "name": "Hamadia",
+        "arabic_name": "الحمادية"
+      },
+      {
+        "id": "67005",
+        "name": "Rechaiga",
+        "arabic_name": "الرشايقة"
+      },
+      {
+        "id": "67006",
+        "name": "Bougara",
+        "arabic_name": "بوقرة"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Ain Oussera",
+    "arabic_name": "عين وسارة",
+    "communes": [
+      {
+        "id": "68001",
+        "name": "Ain Oussera",
+        "arabic_name": "عين وسارة"
+      },
+      {
+        "id": "68002",
+        "name": "Guernini",
+        "arabic_name": "القرنيني"
+      },
+      {
+        "id": "68003",
+        "name": "Birine",
+        "arabic_name": "البيرين"
+      },
+      {
+        "id": "68004",
+        "name": "Benhar",
+        "arabic_name": "بنهار"
+      },
+      {
+        "id": "68005",
+        "name": "Sidi Ladjel",
+        "arabic_name": "سيدي لعجال"
+      },
+      {
+        "id": "68006",
+        "name": "El Khemis",
+        "arabic_name": "الخميس"
+      },
+      {
+        "id": "68007",
+        "name": "Hassi Fedoul",
+        "arabic_name": "حاسي فدول"
+      },
+      {
+        "id": "68008",
+        "name": "Had Sahary",
+        "arabic_name": "حد الصحاري"
+      },
+      {
+        "id": "68009",
+        "name": "Bouira Lahdeb",
+        "arabic_name": "بويرة الأحداب"
+      },
+      {
+        "id": "68010",
+        "name": "Ain Fekka",
+        "arabic_name": "عين افقة"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Messaad",
+    "arabic_name": "مسعد",
+    "communes": [
+      {
+        "id": "69001",
+        "name": "Messaad",
+        "arabic_name": "مسعد"
+      },
+      {
+        "id": "69002",
+        "name": "Sed Rahal",
+        "arabic_name": "سد رحال"
+      },
+      {
+        "id": "69003",
+        "name": "Guettara",
+        "arabic_name": "قتارة"
+      },
+      {
+        "id": "69004",
+        "name": "Selmana",
+        "arabic_name": "سلمانة"
+      },
+      {
+        "id": "69005",
+        "name": "Deldoul",
+        "arabic_name": "دلدول"
+      },
+      {
+        "id": "69006",
+        "name": "Feidh El Botma",
+        "arabic_name": "فيض البطمة"
+      },
+      {
+        "id": "69007",
+        "name": "Oum Laadham",
+        "arabic_name": "ام العظام"
+      },
+      {
+        "id": "69008",
+        "name": "Amourah",
+        "arabic_name": "عمورة"
+      }
+    ]
   }
 ]
